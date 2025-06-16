@@ -35,8 +35,6 @@
 ||loom.com/embed/$3p,frame,redirect=click2load.html
 ||ok.ru/videoembed^$3p,frame,redirect=click2load.html
 ||onedrive.live.com/embed^$3p,frame,redirect=click2load.html
-||open.spotify.com/embed-podcast/$3p,frame,redirect=click2load.html
-||open.spotify.com/embed/$3p,frame,redirect=click2load.html
 ||player.blubrry.com/$3p,frame,redirect=click2load.html
 ||player.captivate.fm^$3p,frame,redirect=click2load.html
 ||player.hotmart.com/$3p,frame,redirect=click2load.html
@@ -66,8 +64,6 @@
 ||vk.com/video_ext$3p,frame,redirect=click2load.html
 ||volume.vox-cdn.com/embed/$3p,frame,redirect=click2load.html
 ||w.soundcloud.com/player/$3p,frame,redirect=click2load.html
-||youtube-nocookie.com/embed^$3p,frame,redirect=click2load.html,domain=~bing.com|~google.com|~duckduckgo.com|~video.search.yahoo.com
-||youtube.com^$3p,frame,redirect=click2load.html,domain=~bing.com|~chatreplay.stream|~google.com|~duckduckgo.com|~video.search.yahoo.com|~w2g.tv|~thebluealliance.com|~theguardian.com|~songsterr.com
 !#endif
 
 !!! OPTIONAL
