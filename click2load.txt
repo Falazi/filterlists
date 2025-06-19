@@ -2,7 +2,7 @@
 ! Title: ⛔ click2load filter
 ! Description: To be used in uBlock Origin
 ! Homepage: https://github.com/Falazi/filterlists
-! Expires: 12 hours (update frequency)
+! Expires: 7 days (update frequency)
 ! Version: 9 June 2025
 ! Syntax: AdBlock
 
