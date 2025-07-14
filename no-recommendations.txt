@@ -58,3 +58,19 @@
 ###latest_stories
 ##[data-mrf-recirculation="related-news"]
 ##[data-mrf-recirculation="Read More"]
+##[data-component="right-rail"]
+###rhcreflow-extra
+##.storyBottomMostPopularContainer
+##.widget-news
+##.more-from-vice
+##.rhSection
+##[class*=blockarticles]
+##[class*=blockmore-to-explore]
+##.wdgt-side-content
+##.sidebar-widget
+##.more-apps
+##.vgc-listing--popular
+##.vgc-layout__promos
+##.related_games
+##.PageList
+##.PopularPosts
