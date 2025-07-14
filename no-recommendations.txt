@@ -74,3 +74,8 @@
 ##.related_games
 ##.PageList
 ##.PopularPosts
+##.news-most-popular
+##.sidebox-articles
+##.recirculation
+##.newswire
+##.story-grid
