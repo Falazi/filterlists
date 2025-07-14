@@ -94,3 +94,6 @@ www.theguardian.com##.dcr-1vf50t
 ##[data-optimizely="related-articles-section"]
 ##[data-cy="most-read-headline-list"]
 ##[data-testid="post-recommends-list"]
+##.article__read-next__Kjxdw
+###news-feed-content.sidebar
+##.editorial.inline
