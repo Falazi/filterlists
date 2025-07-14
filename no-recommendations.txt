@@ -10,7 +10,7 @@
 ##[id*=most-read]
 ##[class*=most-read]
 ##[class*=related]
-##[id^=related]
+##[id*=related]
 ##[class*=article-recirc]
 ##[class*=trending]
 ##[id*=article-recirc]
