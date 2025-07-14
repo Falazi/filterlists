@@ -79,3 +79,12 @@
 ##.recirculation
 ##.newswire
 ##.story-grid
+##.partner-content-wrapper
+##[class^=right-rail]
+##[class*=popular]
+###eoa-recent
+##.next-container
+##.td-post-next-prev
+##[data-testid="prism-collection"]
+trakt.tv#@#[class*=trending]
+trakt.tv#@#[id*=trending]
