@@ -88,3 +88,9 @@
 ##[data-testid="prism-collection"]
 trakt.tv#@#[class*=trending]
 trakt.tv#@#[id*=trending]
+##.onward-journey
+##.more-stories
+www.theguardian.com##.dcr-1vf50t
+##[data-optimizely="related-articles-section"]
+##[data-cy="most-read-headline-list"]
+##[data-testid="post-recommends-list"]
