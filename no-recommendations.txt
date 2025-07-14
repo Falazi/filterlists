@@ -1,0 +1,61 @@
+[Adblock Plus 2.0]
+! Version: 
+! Title: No Recommendations
+! Description: Removes recommendations
+! Expires: 12 hours (update frequency)
+! Homepage: https://github.com/Falazi/filterlists 
+
+##[class*=recommend]
+##[id*=recommend]
+##[id*=most-read]
+##[class*=most-read]
+##[class*=related]
+##[id^=related]
+!##[class*=recirc]
+##[class*=article-recirc]
+##[class*=trending]
+##[id*=article-recirc]
+##[id*=trending]
+##[class*=featured-posts]
+##[data-analytics-collection="right-rail"]
+##[data-controller="more-content"]
+##.widget--most-commented-on
+##.widget--now-on
+##.right-rail
+##.article-story-promo
+###most-shared
+##.keepreading
+##.suggested-content-various
+##.has-continue-reading
+##[data-module="recsys-list"]
+###module-moreStories
+###top-posts-2
+##[aria-labelledby="recommended-article"]
+##.most-popular-sidebar
+##.must-read-widget
+###article-more-from-topic
+##.o-featured-post
+###popular-posts
+##.popular-sec
+##.footer-news-network
+###sidebar__posts
+##.sidebarposts
+##.module-viral
+##.widget-popular
+##[class^=more-on-topic]
+##.w-recirculation-right-rail
+##.w-recirculation
+##.most-popular-today
+##.top-stories
+##.aside-module--top-stories
+##.article-next-up
+###article-news-list
+##.news-boxes
+##.articles-featured-small-block
+##.article-list__side-menu__content
+###latest-articles
+##.wp-block-latest-posts__list
+##.layoutContent-sidebar
+###latest_stories
+##[data-mrf-recirculation="related-news"]
+##[data-mrf-recirculation="Read More"]
