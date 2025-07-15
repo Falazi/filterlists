@@ -97,3 +97,4 @@ www.theguardian.com##.dcr-1vf50t
 ##.article__read-next__Kjxdw
 ###news-feed-content.sidebar
 ##.editorial.inline
+www.bbc.co.uk##.e1lr2am04.ssrcss-u1mzeh-Container
