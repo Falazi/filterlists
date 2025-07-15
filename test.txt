@@ -155,7 +155,6 @@
 ##.reporter-stories
 ##.right-most-popular-item
 ##.rss-promo
-!##.seealso  ! catches scipy docs
 ##.similar-articles
 ##.snp_dont_miss_container
 ##.snp_most_popular
