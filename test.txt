@@ -1,0 +1,6 @@
+[Adblock Plus 2.0]
+! Version: 
+! Title: test
+! Description: test
+! Expires: 12 hours (update frequency)
+! Homepage: https://github.com/Falazi/filterlists 
