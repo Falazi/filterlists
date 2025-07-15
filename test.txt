@@ -276,4 +276,19 @@ www.express.co.uk##.dx-right-column
 ##[data-testid="latest-videos-widget"]
 ##[data-testid="most-viewed-items"]
 ##.article-related-items-block
+##.c-suggest-links 
+##.read-more-links
+###article-RHRLatestfrom
+www.reuters.com##.article__read-next__Kjxdw
+www.reuters.com##.regular-article-layout__related__kSJRx
+##[aria-label="Most Popular News"]
+##[data-layout-type="most-popular-opinion"]
+www.wsj.com##.aside-container
+##[aria-label="What to Read Next"]
+www.wsj.com##.css-1hukof4.eijxmv70
+www.washingtonpost.com##.footer-sm.wpds-c-gMxubY
+www.washingtonpost.com##.PJLV-ikLmDoH-css.PJLV
+##.latest-feed-container
+##.most-read
+
 
