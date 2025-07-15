@@ -216,3 +216,16 @@ elgiganten.se#@#.slick-track
 fanatical.com#@#.slick-track
 nederob.nl#@#.featured-content
 trakt.tv#@#.trending
+##.ign-recommends
+##[data-testid="recirculation"]
+###c-col-editors-picks
+##.recommended-stories
+www.npr.org##.bucket
+##[name="MostViewedRightWithAd"]
+www.theguardian.com##.dcr-1vf50t
+abcnews.go.com##.FITT_Article_main__sidebar
+##.widget--trending-now
+##.widget--most-commented-on
+##.widget--now-on
+##.story--next
+##.inline-module--explore-more
