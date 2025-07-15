@@ -229,3 +229,13 @@ abcnews.go.com##.FITT_Article_main__sidebar
 ##.widget--now-on
 ##.story--next
 ##.inline-module--explore-more
+observer.com##.entry-content > ul
+observer.com##.entry-content > h3
+##.widget_top-posts
+###jp-relatedposts
+##.ct-related-posts
+##.related-content-small
+##.post-top-stories
+##.post-more-stories
+###related-recirc
+##[aria-labelledby="recommended-article"]
