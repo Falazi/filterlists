@@ -290,5 +290,8 @@ www.washingtonpost.com##.footer-sm.wpds-c-gMxubY
 www.washingtonpost.com##.PJLV-ikLmDoH-css.PJLV
 ##.latest-feed-container
 ##.most-read
-
+###related-content-wrapper
+##[id*=related]
+###module-moreStories
+##[id*=recomend]
 
